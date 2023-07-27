@@ -1,0 +1,2 @@
+# my-first-repo
+PRACTICE ACCOUNT FOR LEARNING GIT
